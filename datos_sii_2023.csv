@@ -1,0 +1,231 @@
+Vigencia,Tipo,Componente Base,Componente Variable,Impuesto Especifico Resultante,Otro
+16-11-2023,Gasolina Automotriz 93 (*),"6,00","0,8468","6,8468",UTM/m3
+16-11-2023,Gasolina Automotriz 97 (*),"6,00","0,8447","6,8447",UTM/m3
+16-11-2023,Petroleo Diesel,"1,50","-0,3513","1,1487",UTM/m3
+16-11-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,0000","1,4000",UTM/m3
+16-11-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,0000","1,9300",UTM/1000m3
+09-11-2023,Gasolina Automotriz 93 (*),"6,00","0,9409","6,9409",UTM/m3
+09-11-2023,Gasolina Automotriz 97 (*),"6,00","0,9287","6,9287",UTM/m3
+09-11-2023,Petroleo Diesel,"1,50","-1,1814","0,3186",UTM/m3
+09-11-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,3351","1,7351",UTM/m3
+09-11-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,5092","2,4392",UTM/1000m3
+02-11-2023,Gasolina Automotriz 93 (*),"6,00","0,0817","6,0817",UTM/m3
+02-11-2023,Gasolina Automotriz 97 (*),"6,00","0,0534","6,0534",UTM/m3
+02-11-2023,Petroleo Diesel,"1,50","-2,1193","-0,6193",UTM/m3
+02-11-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,1941","1,5941",UTM/m3
+02-11-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,2949","2,2249",UTM/1000m3
+26-10-2023,Gasolina Automotriz 93 (*),"6,00","0,0000","6,00",UTM/m3
+26-10-2023,Gasolina Automotriz 97 (*),"6,00","0,0000","6,00",UTM/m3
+26-10-2023,Petroleo Diesel,"1,50","-2,4353","-0,9353",UTM/m3
+26-10-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,0000","1,40",UTM/m3
+26-10-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,0000","1,93",UTM/1000m3
+19-10-2023,Gasolina Automotriz 93 (*),"6,00","-0,4293","5,5707",UTM/m3
+19-10-2023,Gasolina Automotriz 97 (*),"6,00","-0,5160","5,4840",UTM/m3
+19-10-2023,Petroleo Diesel,"1,50","-2,5580","-1,0580",UTM/m3
+19-10-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,0354","1,3646",UTM/m3
+19-10-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,0538","1,8762",UTM/1000m3
+12-10-2023,Gasolina Automotriz 93 (*),"6,00","-1,1426","4,8574",UTM/m3
+12-10-2023,Gasolina Automotriz 97 (*),"6,00","-1,1986","4,8014",UTM/m3
+12-10-2023,Petroleo Diesel,"1,50","-2,7180","-1,2180",UTM/m3
+12-10-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,0098","1,4098",UTM/m3
+12-10-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,0149","1,9449",UTM/1000m3
+05-10-2023,Gasolina Automotriz 93 (*),"6,00","-1,7830","4,2170",UTM/m3
+05-10-2023,Gasolina Automotriz 97 (*),"6,00","-1,6935","4,3065",UTM/m3
+05-10-2023,Petroleo Diesel,"1,50","-2,9583","-1,4583",UTM/m3
+05-10-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,0478","1,3522",UTM/m3
+05-10-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,0726","1,8574",UTM/1000m3
+28-09-2023,Gasolina Automotriz 93 (*),"6,00","-2,3632",,UTM/m3
+28-09-2023,Gasolina Automotriz 97 (*),"6,00","-2,2621",,UTM/m3
+28-09-2023,Petroleo Diesel,"1,50","-3,0391",,UTM/m3
+28-09-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,5999",,UTM/m3
+28-09-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,9115",,UTM/1000m3
+21-09-2023,Gasolina Automotriz 93 (*),"6,00","-2,5973","3,4027",UTM/m3
+21-09-2023,Gasolina Automotriz 97 (*),"6,00","-2,5039","3,4961",UTM/m3
+21-09-2023,Petroleo Diesel,"1,50","-3,0612","-1,5612",UTM/m3
+21-09-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,4087","0,9913",UTM/m3
+21-09-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,6210","1,3090",UTM/1000m3
+14-09-2023,Gasolina Automotriz 93 (*),"6,00","-2,0333","3,9667",UTM/m3
+14-09-2023,Gasolina Automotriz 97 (*),"6,00","-2,0670","3,9330",UTM/m3
+14-09-2023,Petroleo Diesel,"1,50","-2,2388","-0,7388",UTM/m3
+14-09-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,0304","1,3696",UTM/m3
+14-09-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,0462","1,8838",UTM/1000m3
+07-09-2023,Gasolina Automotriz 93 (*),"6,00","-2,1636","3,8364",UTM/m3
+07-09-2023,Gasolina Automotriz 97 (*),"6,00","-2,3703","3,6297",UTM/m3
+07-09-2023,Petroleo Diesel,"1,50","-2,0040","-0,5040",UTM/m3
+07-09-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,1406","1,2594",UTM/m3
+07-09-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,2136","1,7164",UTM/1000m3
+31-08-2023,Gasolina Automotriz 93 (*),"6,00","-2,4243","3,5757",UTM/m3
+31-08-2023,Gasolina Automotriz 97 (*),"6,00","-2,6168","3,3832",UTM/m3
+31-08-2023,Petroleo Diesel,"1,50","-2,0545","-0,5545",UTM/m3
+31-08-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,2013","1,6013",UTM/m3
+31-08-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,3059","2,2359",UTM/1000m3
+24-08-2023,Gasolina Automotriz 93 (*),"6,00","-2,5403","3,4597",UTM/m3
+24-08-2023,Gasolina Automotriz 97 (*),"6,00","-2,6155","3,3845",UTM/m3
+24-08-2023,Petroleo Diesel,"1,50","-1,8842","-0,3842",UTM/m3
+24-08-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,0000","1,40",UTM/m3
+24-08-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,0000","1,93",UTM/1000m3
+17-08-2023,Gasolina Automotriz 93 (*),"6,00","-2,5617","3,4383",UTM/m3
+17-08-2023,Gasolina Automotriz 97 (*),"6,00","-2,6116","3,3884",UTM/m3
+17-08-2023,Petroleo Diesel,"1,50","-1,8145","-0,3145",UTM/m3
+17-08-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,4946","0,9054",UTM/m3
+17-08-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,7515","1,1785",UTM/1000m3
+10-08-2023,Gasolina Automotriz 93 (*),"6,00","-2,2366","3,7634",UTM/m3
+10-08-2023,Gasolina Automotriz 97 (*),"6,00","-2,2804","3,7196",UTM/m3
+10-08-2023,Petroleo Diesel,"1,50","-1,0096","0,4904",UTM/m3
+10-08-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,3970","1,0030",UTM/m3
+10-08-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,6032","1,3268",UTM/1000m3
+03-08-2023,Gasolina Automotriz 93 (*),"6,00","-1,5341","4,4659",UTM/m3
+03-08-2023,Gasolina Automotriz 97 (*),"6,00","-1,5625","4,4375",UTM/m3
+03-08-2023,Petroleo Diesel,"1,50","0,1814","1,6814",UTM/m3
+03-08-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,1546","1,2454",UTM/m3
+03-08-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,2349","1,6951",UTM/1000m3
+27-07-2023,Gasolina Automotriz 93 (*),"6,00","-1,1043","4,8957",UTM/m3
+27-07-2023,Gasolina Automotriz 97 (*),"6,00","-1,1249","4,8751",UTM/m3
+27-07-2023,Petroleo Diesel,"1,50","1,1828","2,6828",UTM/m3
+27-07-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,4641","0,9359",UTM/m3
+27-07-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,7052","1,2248",UTM/1000m3
+20-07-2023,Gasolina Automotriz 93 (*),"6,00","-0,6118","5,3882",UTM/m3
+20-07-2023,Gasolina Automotriz 97 (*),"6,00","-0,6262","5,3738",UTM/m3
+20-07-2023,Petroleo Diesel,"1,50","1,5228","3,0228",UTM/m3
+20-07-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,2323","1,1677",UTM/m3
+20-07-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,3530","1,5770",UTM/1000m3
+13-07-2023,Gasolina Automotriz 93 (*),"6,00","0,00","6,00",UTM/m3
+13-07-2023,Gasolina Automotriz 97 (*),"6,00","0,00","6,00",UTM/m3
+13-07-2023,Petroleo Diesel,"1,50","2,0128","3,5128",UTM/m3
+13-07-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,0000","1,40",UTM/m3
+13-07-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,0000","1,93",UTM/1000m3
+06-07-2023,Gasolina Automotriz 93 (*),"6,00","0,1559","6,1559",UTM/m3
+06-07-2023,Gasolina Automotriz 97 (*),"6,00","-0,0237","5,9763",UTM/m3
+06-07-2023,Petroleo Diesel,"1,50","2,2633","3,7633",UTM/m3
+06-07-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,4372","1,8372",UTM/m3
+06-07-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,6643","2,5943",UTM/1000m3
+29-06-2023,Gasolina Automotriz 93 (*),"6,00","0,1389","6,1389",UTM/m3
+29-06-2023,Gasolina Automotriz 97 (*),"6,00","-0,0276","5,9724",UTM/m3
+29-06-2023,Petroleo Diesel,"1,50","2,4173","3,9173",UTM/m3
+29-06-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,3622","1,7622",UTM/m3
+29-06-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,5504","2,4804",UTM/1000m3
+22-06-2023,Gasolina Automotriz 93 (*),"6,00","0,0000","6,00",UTM/m3
+22-06-2023,Gasolina Automotriz 97 (*),"6,00","0,0000","6,00",UTM/m3
+22-06-2023,Petroleo Diesel,"1,50","2,5809","4,0809",UTM/m3
+22-06-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,3440","1,7440",UTM/m3
+22-06-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,5227","2,4527",UTM/1000m3
+15-06-2023,Gasolina Automotriz 93 (*),"6,00","0,2380","6,2380",UTM/m3
+15-06-2023,Gasolina Automotriz 97 (*),"6,00","0,2514","6,2514",UTM/m3
+15-06-2023,Petroleo Diesel,"1,50","3,0820","4,5820",UTM/m3
+15-06-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,6785","2,0785",UTM/m3
+15-06-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","1,0310","2,9610",UTM/1000m3
+08-06-2023,Gasolina Automotriz 93 (*),"6,00","0,0070","6,0070",UTM/m3
+08-06-2023,Gasolina Automotriz 97 (*),"6,00","0,0079","6,0079",UTM/m3
+08-06-2023,Petroleo Diesel,"1,50","2,9005","4,4005",UTM/m3
+08-06-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,6486","2,0486",UTM/m3
+08-06-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,9855","2,9155",UTM/1000m3
+01-06-2023,Gasolina Automotriz 93 (*),"6,00","0,0000","6,00",UTM/m3
+01-06-2023,Gasolina Automotriz 97 (*),"6,00","0,0000","6,00",UTM/m3
+01-06-2023,Petroleo Diesel,"1,50","2,7888","4,2888",UTM/m3
+01-06-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,5172","1,9172",UTM/m3
+01-06-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,7859",,UTM/1000m3
+25-05-2023,Gasolina Automotriz 93 (*),"6,00","0,7807","6,7807",UTM/m3
+25-05-2023,Gasolina Automotriz 97 (*),"6,00","0,7725","6,7725",UTM/m3
+25-05-2023,Petroleo Diesel,"1,50","3,2260","4,7260",UTM/m3
+25-05-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,4697","1,8697",UTM/m3
+25-05-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,7137","2,6437",UTM/1000m3
+18-05-2023,Gasolina Automotriz 93 (*),"6,00","0,9915","6,9915",UTM/m3
+18-05-2023,Gasolina Automotriz 97 (*),"6,00","0,9722","6,9722",UTM/m3
+18-05-2023,Petroleo Diesel,"1,50","3,3797","4,8797",UTM/m3
+18-05-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,4976","1,8976",UTM/m3
+18-05-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,7561","2,6861",UTM/1000m3
+11-05-2023,Gasolina Automotriz 93 (*),"6,00","0,7492","6,7492",UTM/m3
+11-05-2023,Gasolina Automotriz 97 (*),"6,00","0,6008","6,6008",UTM/m3
+11-05-2023,Petroleo Diesel,"1,50","3,1485","4,6485",UTM/m3
+11-05-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,2308","1,6308",UTM/m3
+11-05-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,3507","2,2807",UTM/1000m3
+04-05-2023,Gasolina Automotriz 93 (*),"6,00","0,5904","6,5904",UTM/m3
+04-05-2023,Gasolina Automotriz 97 (*),"6,00","0,2028","6,2028",UTM/m3
+04-05-2023,Petroleo Diesel,"1,50","2,9022","4,4022",UTM/m3
+04-05-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,3051","1,7051",UTM/m3
+04-05-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,4636","2,3936",UTM/1000m3
+27-04-2023,Gasolina Automotriz 93 (*),"6,00","-0,1183","5,8817",UTM/m3
+27-04-2023,Gasolina Automotriz 97 (*),"6,00","-0,6063","5,3937",UTM/m3
+27-04-2023,Petroleo Diesel,"1,50","2,4166","3,9166",UTM/m3
+27-04-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,1256","1,5256",UTM/m3
+27-04-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,1908","2,1208",UTM/1000m3
+20-04-2023,Gasolina Automotriz 93 (*),"6,00","-0,6069","5,3931",UTM/m3
+20-04-2023,Gasolina Automotriz 97 (*),"6,00","-0,9777","5,0223",UTM/m3
+20-04-2023,Petroleo Diesel,"1,50","1,8753","3,3753",UTM/m3
+20-04-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,1715","1,5715",UTM/m3
+20-04-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,2606","2,1906",UTM/1000m3
+13-04-2023,Gasolina Automotriz 93 (*),"6,00","-0,4058","5,5942",UTM/m3
+13-04-2023,Gasolina Automotriz 97 (*),"6,00","-0,5814","5,4186",UTM/m3
+13-04-2023,Petroleo Diesel,"1,50","2,1518","3,6518",UTM/m3
+13-04-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,1863","1,5863",UTM/m3
+13-04-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,2831","2,2131",UTM/1000m3
+06-04-2023,Gasolina Automotriz 93 (*),"6,00","0,2130","6,2130",UTM/m3
+06-04-2023,Gasolina Automotriz 97 (*),"6,00","0,1767","6,1767",UTM/m3
+06-04-2023,Petroleo Diesel,"1,50","2,3814","3,8814",UTM/m3
+06-04-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,4522","1,8522",UTM/m3
+06-04-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,6871","2,6171",UTM/1000m3
+30-03-2023,Gasolina Automotriz 93 (*),"6,00","0,1191","6,1191",UTM/m3
+30-03-2023,Gasolina Automotriz 97 (*),"6,00","0,1146","6,1146",UTM/m3
+30-03-2023,Petroleo Diesel,"1,50","2,0406","3,5406",UTM/m3
+30-03-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,5063","1,9063",UTM/m3
+30-03-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,7693","2,6993",UTM/1000m3
+23-03-2023,Gasolina Automotriz 93 (*),"6,00","-0,1491","5,8509",UTM/m3
+23-03-2023,Gasolina Automotriz 97 (*),"6,00","-0,0544","5,9456",UTM/m3
+23-03-2023,Petroleo Diesel,"1,50","1,9865","3,4865",UTM/m3
+23-03-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,1145","1,5145",UTM/m3
+23-03-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,1740","2,1040",UTM/1000m3
+16-03-2023,Gasolina Automotriz 93 (*),"6,00","-0,1103","5,8897",UTM/m3
+16-03-2023,Gasolina Automotriz 97 (*),"6,00","-0,0412","5,9588",UTM/m3
+16-03-2023,Petroleo Diesel,"1,50","1,8561","3,3561",UTM/m3
+16-03-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,0244","1,3756",UTM/m3
+16-03-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,0371","1,8929",UTM/1000m3
+09-03-2023,Gasolina Automotriz 93 (*),"6,00","0,0000","6,0000",UTM/m3
+09-03-2023,Gasolina Automotriz 97 (*),"6,00","0,0000","6,0000",UTM/m3
+09-03-2023,Petroleo Diesel,"1,50","1,6968","3,1968",UTM/m3
+09-03-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,0000","1,40",UTM/m3
+09-03-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,0000","1,93",UTM/1000m3
+02-03-2023,Gasolina Automotriz 93 (*),"6,00","-0,1002","5,8998",UTM/m3
+02-03-2023,Gasolina Automotriz 97 (*),"6,00","0,0078","6,0078",UTM/m3
+02-03-2023,Petroleo Diesel,"1,50","2,3642","3,8642",UTM/m3
+02-03-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,2322","1,1678",UTM/m3
+02-03-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,3528","1,5772",UTM/1000m3
+23-02-2023,Gasolina Automotriz 93 (*),"6,00","-0,2101","5,7899",UTM/m3
+23-02-2023,Gasolina Automotriz 97 (*),"6,00","-0,1034","5,8966",UTM/m3
+23-02-2023,Petroleo Diesel,"1,50","2,3474","3,8474",UTM/m3
+23-02-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,0158","1,4158",UTM/m3
+23-02-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,0240","1,9540",UTM/1000m3
+16-02-2023,Gasolina Automotriz 93 (*),"6,00","0,0000","6,0000",UTM/m3
+16-02-2023,Gasolina Automotriz 97 (*),"6,00","0,0987","6,0987",UTM/m3
+16-02-2023,Petroleo Diesel,"1,50","2,2633","3,7633",UTM/m3
+16-02-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,0292","1,3708",UTM/m3
+16-02-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,0444","1,8856",UTM/1000m3
+09-02-2023,Gasolina Automotriz 93 (*),"6,00","0,1438","6,1438",UTM/m3
+09-02-2023,Gasolina Automotriz 97 (*),"6,00","0,2554","6,2554",UTM/m3
+09-02-2023,Petroleo Diesel,"1,50","1,9054","3,4054",UTM/m3
+09-02-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,4662","0,9338",UTM/m3
+09-02-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,7084","1,2216",UTM/1000m3
+02-02-2023,Gasolina Automotriz 93 (*),"6,00","-0,3930","5,6070",UTM/m3
+02-02-2023,Gasolina Automotriz 97 (*),"6,00","-0,2829","5,7171",UTM/m3
+02-02-2023,Petroleo Diesel,"1,50","0,8795","2,3795",UTM/m3
+02-02-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","-0,4806","0,9194",UTM/m3
+02-02-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","-0,7303","1,1997",UTM/1000m3
+26-01-2023,Gasolina Automotriz 93 (*),"6,00","0,0000","6,00",UTM/m3
+26-01-2023,Gasolina Automotriz 97 (*),"6,00","0,0910","6,0910",UTM/m3
+26-01-2023,Petroleo Diesel,"1,50","0,9431","2,4431",UTM/m3
+26-01-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,0000","1,40",UTM/m3
+26-01-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,0000","1,93",UTM/1000m3
+19-01-2023,Gasolina Automotriz 93 (*),"6,00","0,8225","6,8225",UTM/m3
+19-01-2023,Gasolina Automotriz 97 (*),"6,00","1,0026","7,0026",UTM/m3
+19-01-2023,Petroleo Diesel,"1,50","1,7603","3,2603",UTM/m3
+19-01-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,2826","1,6826",UTM/m3
+19-01-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,4294","2,3594",UTM/1000m3
+12-01-2023,Gasolina Automotriz 93 (*),"6,00","0,5826","6,5826",UTM/m3
+12-01-2023,Gasolina Automotriz 97 (*),"6,00","0,8800","6,8800",UTM/m3
+12-01-2023,Petroleo Diesel,"1,50","1,1125","2,6125",UTM/m3
+12-01-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,4910","1,8910",UTM/m3
+12-01-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","0,7461","2,6761",UTM/1000m3
+05-01-2023,Gasolina Automotriz 93 (*),"6,00","0,8381","6,8381",UTM/m3
+05-01-2023,Gasolina Automotriz 97 (*),"6,00","1,2545","7,2545",UTM/m3
+05-01-2023,Petroleo Diesel,"1,50","0,9100","2,4100",UTM/m3
+05-01-2023,Gas Licuado de Petroleo de Consumo Vehicular,"1,40","0,6768","2,0768",UTM/m3
+05-01-2023,Gas Natural Comprimido de Consumo Vehicular,"1,93","1,0284","2,9584",UTM/1000m3
